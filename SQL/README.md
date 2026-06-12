@@ -12,12 +12,12 @@ Creates dimension tables by extracting unique business entities from the source 
 
 Dimensions generated:
 
-Product
-Country
-Client
-Sales Channel
-Company
-Launch Year
+- Product
+- Country
+- Client
+- Sales Channel
+- Company
+- Launch Year
 
 ---
 
