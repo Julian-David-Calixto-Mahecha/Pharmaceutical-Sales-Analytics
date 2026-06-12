@@ -19,15 +19,19 @@ Provide an executive view of pharmaceutical sales performance, budget compliance
 ## KPIs
 
 YTD Sales
+
 Total accumulated sales for the selected period.
 
 YTD Budget
+
 Total accumulated budget for the selected period.
 
 Compliance Rate
+
 Percentage of budget achieved.
 
 Freshness Index
+
 Indicator used to evaluate the proportion of recently launched products within the portfolio.
 
 ---
