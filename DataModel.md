@@ -56,3 +56,17 @@ This design improves:
 
 # Data Model Diagram
 
+Containing centered fact table and dimensions related through 1:n relation. 
+Additionaly presenting the file "Medidas", which represents ordered measures executed with DAX to present KPIs.
+
+<img width="1133" height="702" alt="Image" src="https://github.com/user-attachments/assets/9cfa3b59-92a5-4d88-9485-14935054a880" />
+
+## Why a Star Schema?
+
+A star schema was selected instead of a single flat table because it:
+
+- Reduces data redundancy.
+- Improves model performance.
+- Simplifies report development.
+- Enables reusable business dimensions.
+- Follows industry-standard Business Intelligence practices.
