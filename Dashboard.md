@@ -51,3 +51,4 @@ Indicator used to evaluate the proportion of recently launched products within t
 
 <img width="1278" height="717" alt="Image" src="https://github.com/user-attachments/assets/c18d5d53-885b-4b96-b68f-1d05feaf47f8" />
 
+<img width="1282" height="725" alt="Image" src="https://github.com/user-attachments/assets/7e3b4ac8-98e5-401b-8ce9-e1f458232565" />
