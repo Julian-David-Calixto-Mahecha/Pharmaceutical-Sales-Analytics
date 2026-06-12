@@ -43,7 +43,7 @@ Indicator used to evaluate the proportion of recently launched products within t
 - Product launch trend monitoring.
 - KPI tracking against budget targets.
 
-## Performance window
+## Overall performance window
 
 <img width="1283" height="722" alt="Image" src="https://github.com/user-attachments/assets/e55e85ff-cc86-4354-9af8-b926ea204cd5" />
 
