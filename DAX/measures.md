@@ -44,7 +44,7 @@ Measures budget achievement percentage.
 
 ---
 
-## Title
+## Title modeling
 
 ```DAX
 COMPLIANCE TITLE =
