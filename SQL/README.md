@@ -41,14 +41,15 @@ Performs validation checks to ensure:
 - No duplicate dimension values.
 - No null key values.
 - Consistent relationships between tables.
-- SQL Contribution to the Project
 
 ---
 
-## SQL was used to:
+## SQL Contribution to the Project
 
-Transform raw data into analytical structures.
-Create reusable dimensions.
-Reduce data redundancy.
-Support star schema implementation.
-Improve Power BI model maintainability.
+SQL was used to:
+
+- Transform raw data into analytical structures.
+- Create reusable dimensions.
+- Reduce data redundancy.
+- Support star schema implementation.
+- Improve Power BI model maintainability.
