@@ -2,7 +2,7 @@
 
 ## Overview
 
-End-to-end Business Intelligence project developed using SQL, Power Query, DAX, and Power BI to analyze pharmaceutical sales performance, budget compliance, and product launch trends.
+End-to-end Business Intelligence project developed using SQL, Power Query, DAX, and Power BI to analyze anonymized pharmaceutical sales performance, budget compliance, and product launch trends real data.
 
 The project includes data extraction, transformation, dimensional modeling, KPI development, and dashboard visualization.
 
