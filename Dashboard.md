@@ -1,12 +1,12 @@
-#Dashboard Review
+# Dashboard Review
 
-##Objective
+## Objective
 
 Provide an executive view of pharmaceutical sales performance, budget compliance, and product launch activity across countries, clients, and sales channels.
 
 ---
 
-##Business Questions Answered
+## Business Questions Answered
 
 - Are sales meeting budget targets?
 - Which countries have the highest compliance rates?
@@ -16,7 +16,7 @@ Provide an executive view of pharmaceutical sales performance, budget compliance
 
 ---
 
-##KPIs
+## KPIs
 
 YTD Sales
 
@@ -35,7 +35,7 @@ Freshness Index
 Indicator used to evaluate the proportion of recently launched products within the portfolio.
 
 ---
-###Dashboard Features
+### Dashboard Features
 
 - Interactive filtering.
 - Country performance comparison.
