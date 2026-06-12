@@ -18,7 +18,34 @@ The project includes data extraction, transformation, dimensional modeling, KPI 
 
 ---
 
+## Data Privacy
+
+The original dataset contained confidential business information.
+
+To ensure data privacy:
+
+- Client names were anonymized.
+- Product names were anonymized.
+- Countries and commercial entities were anonymized.
+- Sales values were transformed using randomized scaling factors while preserving business patterns and trends.
+
+This approach allows the project to demonstrate analytical capabilities without exposing sensitive corporate information.
+
+---
+
 ## Project Workflow
+
+Excel Dataset
+      ↓
+Power Query
+      ↓
+SQL Data Modeling
+      ↓
+Star Schema
+      ↓
+Power BI
+      ↓
+Dashboard & KPIs
 
 ### 1. Data Preparation
 
