@@ -1,7 +1,50 @@
 #Dashboard Review
 
+##Objective
+
+Provide an executive view of pharmaceutical sales performance, budget compliance, and product launch activity across countries, clients, and sales channels.
+
+---
+
+##Business Questions Answered
+
+- Are sales meeting budget targets?
+- Which countries have the highest compliance rates?
+- Which products contribute most to sales performance?
+- How many products have been launched each year?
+- How does performance vary by client and sales channel?
+
+---
+
+##KPIs
+
+YTD Sales
+
+Total accumulated sales for the selected period.
+
+YTD Budget
+
+Total accumulated budget for the selected period.
+
+Compliance Rate
+
+Percentage of budget achieved.
+
+Freshness Index
+
+Indicator used to evaluate the proportion of recently launched products within the portfolio.
+
+---
+###Dashboard Features
+
+- Interactive filtering.
+- Country performance comparison.
+- Product-level performance analysis.
+- Product launch trend monitoring.
+- KPI tracking against budget targets.
+
 ## Performance window
 
 <img width="1283" height="722" alt="Image" src="https://github.com/user-attachments/assets/e55e85ff-cc86-4354-9af8-b926ea204cd5" />
 
-<img width="1283" height="722" alt="Image" src="https://github.com/user-attachments/assets/e55e85ff-cc86-4354-9af8-b926ea204cd5" />
+
