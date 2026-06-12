@@ -22,6 +22,16 @@ Dimensions generated:
 
 ---
 
+## Data_Preparation.sql
+
+Performs validation checks to ensure:
+
+- No duplicate dimension values.
+- No null key values.
+- Consistent relationships between tables.
+
+---
+
 ## Create_Primary_Keys.sql
 
 Implements surrogate keys for each dimension table to support efficient relationships within the analytical model.
@@ -31,16 +41,6 @@ Implements surrogate keys for each dimension table to support efficient relation
 ## Create_Foreign_Keys.sql
 
 Establishes relationships between the fact table and dimensions through foreign key assignments.
-
----
-
-## Data_Validation.sql
-
-Performs validation checks to ensure:
-
-- No duplicate dimension values.
-- No null key values.
-- Consistent relationships between tables.
 
 ---
 
