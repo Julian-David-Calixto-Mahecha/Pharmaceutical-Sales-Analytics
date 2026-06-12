@@ -6,7 +6,8 @@ SQL was used to prepare the analytical data model by creating dimension tables, 
 ---
 
 ## Scripts Included
-Create_Dimensions.sql
+
+## Create_Dimensions.sql
 
 Creates dimension tables by extracting unique business entities from the source dataset.
 
